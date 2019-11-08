@@ -1,0 +1,11 @@
+{
+    "projectDir": "D:/projects/oldlie",
+    "codeDir": "src",
+    "author": "auto code",
+    "tools": "com.oldlie.springboot.web.beans",
+    "entityPackage": "com.oldlie.springboot.web.entity.database",
+    "httpPackage": "com.oldlie.springboot.web.http",
+    "repositoryPackege": "com.oldlie.springboot.web.entity.database.repository",
+    "servicePackage": "com.oldlie.springboot.web.service",
+    "contorllerPackage": "com.oldlie.springboot.web.controller"
+}
